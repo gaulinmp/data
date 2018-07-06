@@ -1,0 +1,5 @@
+pandas
+
+-e git://github.com/gaulinmp/pyedgar.git#egg=pyedgar
+-e git://github.com/gaulinmp/panda_cub.git#egg=panda_cub
+
